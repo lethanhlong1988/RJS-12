@@ -31,7 +31,7 @@ body {
 
 #main-header h1 {
   margin-top: 0;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   letter-spacing: 0.15rem;
 }
 
@@ -62,7 +62,7 @@ section {
   margin: 0.5rem;
   font-size: 1rem;
   font-weight: bold;
-  color: #88dbd6;
+  color: #457b9d;
 }
 
 #configure-counter input {
@@ -70,10 +70,10 @@ section {
   text-align: center;
   margin: 0.5rem;
   padding: 0.5rem 0.25rem;
-  border: 1px solid #88dbd6;
+  border: 1px solid #457b9d;
   border-radius: 4px;
-  background-color: #0e1a1c;
-  color: #88dbd6;
+  background-color: #caf0f8;
+  color: #457b9d;
   font-size: 1rem;
 }
 
@@ -89,12 +89,12 @@ section {
 #configure-counter button {
   cursor: pointer;
   background: transparent;
-  color: #96d8d6;
+  color: #0077b6;
   border: none;
 }
 
 #configure-counter button:hover {
-  color: #16f3eb;
+  color: #778da9;
 }
 
 .counter {
@@ -165,7 +165,7 @@ section {
   gap: 0.5rem;
   align-items: center;
   padding: 0.5rem 1rem;
-  background-color: #16f3eb;
+  background-color: #778da9;
   color: #051a19;
   border: none;
   border-radius: 4px;
